@@ -1,0 +1,9 @@
+{
+	"name": "adf-learn-sanjeev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ea034d0-7153-46dc-a241-9c734996ff16",
+		"tenantId": "1e3fc479-5c89-4a3e-a0ac-ca915e73e824"
+	}
+}
